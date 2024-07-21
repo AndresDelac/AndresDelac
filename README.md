@@ -95,7 +95,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/hugo-andres-de-la-cruz-oyola-0b9b20289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="linkedin" height="50" width="50" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="50" width="50" /></a>
-
+<a href="hugoandres2205@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=email style="margin-bottom: 5px;" />
+</a>
   
 </p>
 
