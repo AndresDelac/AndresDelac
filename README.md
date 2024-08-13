@@ -10,11 +10,7 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 
 <!--h2 without bottom border-->
@@ -26,7 +22,7 @@
 
 
 <!--Intro start-->
-- 🔭 De momento estoy estudiando en el bootcamp de Henry, aprendiendo todo sobre **desarrollo web**
+- 🔭 De momento estoy buscando trabajo para comenzar a tener mi **Experiencia Laboral**
 
 - 🌱 Estoy aprendiendo **a crear aplicaciones web escalables y optimizables.**
 
