@@ -22,9 +22,9 @@
 
 
 <!--Intro start-->
-- 🔭 De momento estoy buscando trabajo para comenzar a tener mi **Experiencia Laboral**
+- 🔭 En estos momentos estoy trabajando como **Desarrollador Freelance**
 
-- 🌱 Estoy aprendiendo **a crear aplicaciones web escalables y optimizables.**
+- 🌱 Sigo mejorando para **crear aplicaciones web escalables y optimizables.**
 
 - ☁️ Siempre he tenido interes en como se hacen los diseños de las paginas web. Por eso, me especialize en **Front-end**
 
